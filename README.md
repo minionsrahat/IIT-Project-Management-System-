@@ -1,9 +1,9 @@
-# Software Project Lab (SPL) Management Software
+# Software Project Lab (SPL) Management Software (Client)
 
 Client Repo: [https://github.com/minionsrahat/IIT-Project-Management-System-Fronted](https://github.com/minionsrahat/IIT-Project-Management-System-Fronted)
 
 
-Server Repo: [https://github.com/minionsrahat/Full-Stack-CarsRus-ServerSide](https://github.com/minionsrahat/Full-Stack-CarsRus-ServerSide)
+Server Repo: [https://github.com/minionsrahat/IIT-Project-Management-System-Backend.git](https://github.com/minionsrahat/IIT-Project-Management-System-Backend.git)
 
 The Software Project Lab (SPL) Management Software is a web application developed for managing the activities of the Software Project Lab in an institute. This software simplifies the process of creating teams, managing them, grading them, and facilitating communication among teachers and students.
 
